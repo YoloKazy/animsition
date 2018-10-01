@@ -7,6 +7,8 @@
 
 A simple and easy jQuery plugin for CSS animated page transitions.
 
+LINK PARA LAS ANIMACIONES DE INPUT: https://codepen.io/MichaelArestad/pen/ohLIa
+
 
 ## Demo & Installation
 http://git.blivesta.com/animsition/
